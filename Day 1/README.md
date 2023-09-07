@@ -5,9 +5,8 @@
 In this introductory session, we will delve into the fundamentals of Python's variable management for data. We will cover essential topics such as outputting information to the Python console, crafting strings with code assistance, troubleshooting code issues, and working with user input. Additionally, we will explore the world of Python variables and learn the rules for effective variable naming.
 
 ## Project: Band Name Generator 🎸
-![day01](https://user-images.githubusercontent.com/98851253/154177081-2c53df2d-777b-4deb-8e38-5742ecd7282f.gif)
+![day01](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%201/day_1.gif)
 
-GIF credit: [Phillipai](https://github.com/phillipai)
 ### Description
 
 The Band Name Generator project allows you to create a unique and imaginative band name by combining the city you grew up in with the name of your pet. This Python program prompts you for your city and pet's name and generates a creative band name for your virtual band.
