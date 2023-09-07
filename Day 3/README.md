@@ -5,7 +5,7 @@
 In this session, we explore control flow and logical operators in Python. We cover essential concepts such as control flow with `if`/`else` statements, conditional operators, the modulo operator, nested `if` statements, `elif` statements, multiple `if` statements in succession, and logical operators. The main focus is on building a text-based adventure game called "Treasure Island," which involves making choices and navigating through different scenarios.
 
 ## Project: Treasure Island 🏴‍☠️
-![day03]()
+![day03](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%203/Day%203.gif)
 
 
 ### Description
