@@ -8,7 +8,6 @@ In this session, we explore Python's data types and string manipulation techniqu
 ![day02](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%202/day_2.gif)
 
 
-GIF credit: [Phillipai](https://github.com/phillipai)
 
 ### Description
 
