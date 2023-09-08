@@ -5,7 +5,7 @@
 In this session, we dive into the concept of randomization and working with Python lists. We explore the use of the random module for generating random choices and gain a better understanding of lists, including appending items and handling index errors. The primary focus is on creating a classic game of Rock, Paper, Scissors.
 
 ## Project: Rock Paper Scissors ✊📄✂️
-![day04]()
+![day04](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%204/day_4.gif)
 
 ### Description
 
