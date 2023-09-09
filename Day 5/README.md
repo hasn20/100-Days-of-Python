@@ -5,7 +5,7 @@
 In this session, we explore the concept of Python loops, specifically the `for` loop. We'll learn how to use `for` loops with lists, utilize the `range()` function, and work with the random module. The primary focus is on creating a password generator program that generates random passwords based on user input.
 
 ## Project: Password Generator 🔐
-![day05]()
+![day05](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%205/day_5.gif)
 
 
 ### Description
