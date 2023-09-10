@@ -5,7 +5,7 @@
 In this session, we explore Python functions and Karel, a simple programming language used for teaching purposes. We'll learn how to define and call functions in Python, understand the importance of proper indentation, work with while loops, and solve a maze escape problem using code.
 
 ## Project: Maze Escape 🧩
-![day06]()
+![day06](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%206/day_6.gif)
 
 
 ### Description
