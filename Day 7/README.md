@@ -5,6 +5,7 @@
 In this project, we've created the classic word guessing game, Hangman, using Python. Players are presented with a hidden word, and they must guess one letter at a time to reveal the word. Incorrect guesses result in a hangman being drawn, and too many incorrect guesses result in a loss.
 
 ## Project: Hangman Game 🏞️🪓
+![day07](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%207/day%207.gif)
 
 ### Description
 
