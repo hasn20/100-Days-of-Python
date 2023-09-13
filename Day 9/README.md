@@ -5,7 +5,7 @@
 In this project, we've created a Python program for conducting a secret auction. The Secret Auction program allows users to submit their names and bid amounts secretly. Once all bids are collected, the program reveals the winner and their winning bid.
 
 ## Project: Secret Auction 🤐🔨
-![day09]()
+![day09](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%209/day%209.gif)
 
 ### Description
 
