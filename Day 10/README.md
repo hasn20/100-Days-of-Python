@@ -5,7 +5,7 @@
 In this project, we've created a Python calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator allows users to perform multiple calculations in succession and provides a user-friendly interface.
 
 ## Project: Calculator 🖩🔨
-![day10]()
+![day10](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%2010/day%2010.gif)
 
 ### Description
 
