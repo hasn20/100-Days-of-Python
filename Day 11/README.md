@@ -5,7 +5,7 @@
 In this project, we've created a Python Blackjack game that allows you to play the classic card game against a computer dealer. The game follows the standard rules of Blackjack, where the goal is to get as close to 21 points as possible without going over.
 
 ## Project: Blackjack ♠️♦️♥️♣️
-![day11]()
+![day11](https://github.com/hasn20/100-Days-of-Python/blob/main/Day%2011/day%2011.gif)
 
 ### Description
 
