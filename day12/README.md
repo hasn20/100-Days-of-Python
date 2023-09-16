@@ -3,7 +3,7 @@
 Welcome to the Number Guessing Game! 🚀 In this Python project, you'll have the opportunity to play a fun and challenging game where you need to guess the secret number within a limited number of attempts. This project allows you to practice Python programming concepts like conditional statements, loops, and user input handling.
 
 ## Project: Number Guessing Challenge 🔢
-![day12]()
+![day12](https://github.com/hasn20/100-Days-of-Python/blob/main/day12/day%2012.gif)
 
 ### Description
 
