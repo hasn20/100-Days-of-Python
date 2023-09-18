@@ -5,7 +5,7 @@
 In Day 14, we embark on an exciting project called the "Higher Lower Game." This project allows you to test your intuition and knowledge of social media by guessing which of two celebrities has more followers on Instagram.
 
 ## Project: Higher Lower Game
-![day14]()
+![day14](https://github.com/hasn20/100-Days-of-Python/blob/main/day14/day%2014.gif)
 
 ### Description
 
