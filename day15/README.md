@@ -5,7 +5,7 @@
 Day 15 brings us a fascinating project: the Coffee Machine. This project simulates a coffee vending machine, allowing users to select and prepare various coffee types with different ingredients and costs.
 
 ## Project: Coffee Machine
-![day15]()
+![day15](https://github.com/hasn20/100-Days-of-Python/blob/main/day15/day%2015.gif)
 
 ### Description
 
